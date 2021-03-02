@@ -1,20 +1,22 @@
-Fazer, em java, uma aplicaÁ„o que liste os processos ativos, permita ao
-usu·rio entrar com o nome ou o PID do processo e o mate.
-A aplicaÁ„o dever· funcionar, minimamente em Windows e Linux (Alunos
-com Mac podem fazer para os 3 SO).
-… notÛrio que cada SO tem comandos diferentes para as aÁıes
-supracitadas. Pesquisar os comandos para cada SO.
-A aplicaÁ„o dever· ter, no package view, uma classe que tenha um mÈtodo
-main que dÍ ao usu·rio a possibilidade de ver os processos ativos ou matar
+# Sistemas Operacionais I - Prof¬∫ Leandro Colevati Dos Santos - 2021-1
+
+### ISO100-A3_ADS_FATEC-ZL
+
+Segundo exercicio de Sistemas Operacionais I. Abaixo a descri√ß√£o do desafio proposto.
+
+#### Ex. 2
+
+Fazer, em java, uma aplica√ß√£o que liste os processos ativos, permita ao usu√°rio entrar com o nome ou o PID do processo e o mate.
+
+A aplica√ß√£o dever√° funcionar, minimamente em Windows e Linux (Alunos com Mac podem fazer para os 3 SO).
+
+√â not√≥rio que cada SO tem comandos diferentes para as a√ß√µes supracitadas. Pesquisar os comandos para cada SO.
+
+A aplica√ß√£o dever√° ter, no package view, uma classe que tenha um m√©todo main que d√™ ao usu√°rio a possibilidade de ver os processos ativos ou matar
 os processos (Por Nome ou PID).
-No package controller, dever· ter:
-1) Uma classe que tenha um mÈtodo que identifique o SO;
-2) Um mÈtodo que, recebendo o SO, no qual est· rodando, como
-par‚metro de entrada, selecione o comando para listar os processos
-ativos;
-3) Um mÈtodo que, recebendo o SO, no qual est· rodando, e o PID do
-processo, como par‚metros de entrada, selecione o comando para
-matar o processo e o finalize;
-4) Um mÈtodo que, recebendo o SO, no qual est· rodando, e o Nome
-do processo, como par‚metros de entrada, selecione o comando
-para matar o processo e o finalize;
+
+No package controller, dever√° ter:
+1. Uma classe que tenha um m√©todo que identifique o SO;
+2. Um m√©todo que, recebendo o SO, no qual est√° rodando, como par√¢metro de entrada, selecione o comando para listar os processos ativos;
+3. Um m√©todo que, recebendo o SO, no qual est√° rodando, e o PID do processo, como par√¢metros de entrada, selecione o comando para matar o processo e o finalize;
+4. Um m√©todo que, recebendo o SO, no qual est√° rodando, e o Nome do processo, como par√¢metros de entrada, selecione o comando para matar o processo e o finalize;
