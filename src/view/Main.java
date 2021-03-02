@@ -53,7 +53,7 @@ public class Main
 		scanner.close();		
 	}
 	private static void limpar() {
-		System.out.println("====================================================\n\n\n");		
+		System.out.println("====================================================\n");		
 	}
 }
 
